@@ -1,0 +1,29 @@
+.quoteWrapper {
+  margin: 25px 0 0 0;
+  border-top: 1px solid gray;
+  padding-top: 15px;
+}
+
+.quoteText {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.quoteLink {
+  display: flex;
+  align-items: center;
+}
+
+.quoteLink a {
+  margin-left: 10px;
+  align-items: center;
+}
+
+.quoteLink p {
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.quoteLink img {
+  width: 20px;
+}
